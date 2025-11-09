@@ -95,7 +95,7 @@ Below are the generated results (from your uploaded GIFs):
 
 All documentation and supporting files are available in the repo root:
 
-* **Research Paper** – `research_paper_with_figures.pdf`
+* **Research Paper** – `research_paper_final_draft.pdf`
 * **Minor Project PPT** – `MInor PPT final.pdf`
 * **Synopsis** – `Minor Synopsis-1.pdf`
 

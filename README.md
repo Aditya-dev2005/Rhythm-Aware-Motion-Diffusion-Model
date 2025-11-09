@@ -137,7 +137,7 @@ This creates and displays `hiphop.gif` in the runtime.
 **Authors:** Aditya Chaturvedi, Aditya Bajaj, Lovish Kumar
 **Supervisor:** Dr. Alka Singhal
 
-If you use this project or its paper, please cite the included `research_paper_with_figures.pdf`.
+If you use this project or its paper, please cite the included `research_paper_final_draft.pdf`.
 
 ---
 

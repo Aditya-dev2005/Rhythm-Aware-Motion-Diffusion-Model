@@ -34,7 +34,10 @@ RA-MDM-Dance-Generation/
 ├─ ballet.gif                 # Output: Ballet animation
 ├─ pop.gif                    # Output: Pop animation
 ├─ breakdance.gif             # Output: Breakdance animation (v3.1 logic)
+├─ mdm_final_research_paper.pdf # Research Paper(Under Review)
 
+> 🧠 Note: This research paper is currently under review and has not yet been formally published.  
+> Please do not cite or distribute without permission.
 ```
 
 > **Note:** GIFs are stored directly in the repository root, not in a separate folder.
@@ -95,7 +98,7 @@ Below are the generated results (from your uploaded GIFs):
 
 All documentation and supporting files are available in the repo root:
 
-* **Research Paper** – `research_paper_final_draft.pdf`
+* **Research Paper** – `mdm_final_research_paper.pdf`
 * **Minor Project PPT** – `MInor PPT final.pdf`
 * **Synopsis** – `Minor Synopsis-1.pdf`
 
@@ -137,7 +140,8 @@ This creates and displays `hiphop.gif` in the runtime.
 **Authors:** Aditya Chaturvedi, Aditya Bajaj, Lovish Kumar
 **Supervisor:** Dr. Alka Singhal
 
-If you use this project or its paper, please cite the included `research_paper_final_draft.pdf`.
+If referencing this work, please cite:
+mdm_final_research_paper.pdf (currently under review)
 
 ---
 

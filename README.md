@@ -34,7 +34,7 @@ RA-MDM-Dance-Generation/
 ├─ ballet.gif                 # Output: Ballet animation
 ├─ pop.gif                    # Output: Pop animation
 ├─ breakdance.gif             # Output: Breakdance animation (v3.1 logic)
-├─ mdm_final_research_paper.pdf # Research Paper(Under Review)
+├─ mdm_paper.pdf # Research Paper(Under Review)
 
 > 🧠 Note: This research paper is currently under review and has not yet been formally published.  
 > Please do not cite or distribute without permission.
@@ -98,7 +98,7 @@ Below are the generated results (from your uploaded GIFs):
 
 All documentation and supporting files are available in the repo root:
 
-* **Research Paper** – `mdm_final_research_paper.pdf`
+* **Research Paper** – `mdm_paper.pdf`
 * **Minor Project PPT** – `MInor PPT final.pdf`
 * **Synopsis** – `Minor Synopsis-1.pdf`
 

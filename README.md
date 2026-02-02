@@ -48,7 +48,7 @@ RA-MDM-Dance-Generation/
 
 You can run this project directly on **Google Colab**:
 
-1. Open `Untitled6.ipynb` in Colab.
+1. Open `mdm.ipynb` in Colab.
 2. Run all cells sequentially.
 3. GIFs for all dance styles will be saved in your Colab environment and displayed inline.
 
